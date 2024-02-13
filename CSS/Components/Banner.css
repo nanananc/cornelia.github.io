@@ -1,0 +1,17 @@
+.container{
+    height: 100vh;
+    color: whitesmoke;
+    width: 70%;
+    border: 4px black;
+    
+}
+
+.banner{
+    background-image: url(../Picture\ Flora.JPG);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
